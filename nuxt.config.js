@@ -47,5 +47,10 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
-  }
+  },
+// Quando quiser usar o middleware para todas as routas .
+//   router: {
+//     middleware: 'auth',
+//   }
+
 }
